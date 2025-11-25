@@ -1,6 +1,6 @@
 ﻿namespace Parking.Infrastructure.Config
 {
-    internal record TariffConfig
+    public record TariffConfig
     (
         decimal CarHourlyRate,
         decimal TruckBaseHourlyRate,

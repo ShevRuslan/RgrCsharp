@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Calculators\" />
+    <ProjectReference Include="..\Parking.Core\Parking.Core.csproj" />
   </ItemGroup>
 
 </Project>

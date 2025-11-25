@@ -2,7 +2,7 @@
 
 namespace Parking.Core.Interfaces
 {
-    internal interface IParkingFeeCalculator
+    public interface IParkingFeeCalculator
     {
         bool CanCalculate(Vehicle vehicle);
         decimal CalculateFee(Vehicle vehicle);

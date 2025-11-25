@@ -1,6 +1,6 @@
 ﻿namespace Parking.Core.Models
 {
-    internal class Truck : Vehicle
+    public class Truck : Vehicle
     {
         public double LengthMeters { get; init; }
         public double WidthMeters { get; init; }
