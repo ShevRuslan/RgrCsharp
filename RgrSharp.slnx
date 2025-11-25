@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Parking.ConsoleApp/Parking.ConsoleApp.csproj" />
+  <Project Path="Parking.Core/Parking.Core.csproj" />
+  <Project Path="Parking.Infrastructure/Parking.Infrastructure.csproj" />
+  <Project Path="Parking.Services/Parking.Services.csproj" />
+</Solution>
