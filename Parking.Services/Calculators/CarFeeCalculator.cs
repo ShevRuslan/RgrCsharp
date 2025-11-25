@@ -4,7 +4,7 @@ using Parking.Infrastructure.Config;
 
 namespace Parking.Infrastructure.Calculators
 {
-    internal class CarFeeCalculator : IParkingFeeCalculator
+    public class CarFeeCalculator : IParkingFeeCalculator
     {
         private readonly TariffConfig _tariff;
 
