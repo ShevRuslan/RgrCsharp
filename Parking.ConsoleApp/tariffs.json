@@ -1,0 +1,7 @@
+﻿{
+  "CarHourlyRate": 100,
+  "TruckBaseHourlyRate": 200,
+  "TruckVolumeCoefficient": 5,
+  "MunicipalHourlyRate": 80,
+  "MunicipalDiscountCoefficient": 0.5
+}
