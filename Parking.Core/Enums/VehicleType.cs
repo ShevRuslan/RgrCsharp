@@ -1,6 +1,6 @@
 ﻿namespace Parking.Core.Enums
 {
-    internal enum VehicleType
+    public enum VehicleType
     {
         Car,
         Truck,

@@ -2,7 +2,7 @@
 
 namespace Parking.Core.Models
 {
-    internal abstract class Vehicle
+    public abstract class Vehicle
     {
         public string LicensePlate { get; init; }
         public VehicleType Type { get; init; }
