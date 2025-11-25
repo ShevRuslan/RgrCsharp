@@ -10,7 +10,6 @@ namespace Parking.Core.Services
         {
             { VehicleType.Car, 150.0 },
             { VehicleType.Truck, 300.0 },
-            { VehicleType.Motorcycle, 100.0 }
         };
 
         // Допустим, после 24 часов идёт фиксированный суточный тариф
